@@ -15,18 +15,14 @@ Simple implementation of basic management, system management, business managemen
 ## Backend
 ### Framework
 <p>
-    <li>Spring</li>
-    <li>SpringMVC</li>
-    <li>Mybatis</li>
+    <li>SpringBoot</li>
 </p>
 
 ### Tools
 <p>
-    <li>Template Engine: JSP</li>
-    <li>Database Connection Tool: Druid</li>
+    <li>Template Engine: Thymeleaf</li>
     <li>Database: Mysql</li>
     <li>Java</li>
-    <li>Server: Tomcat</li>
 </p>
 
 ## Project showcase
