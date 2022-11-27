@@ -1,4 +1,4 @@
-# Car-Rental-Managment-System
+#Family Financial Management
 
 ## About
 <p> This car rental management system is built with Maven, JSP, SSM, & Mysql. 
