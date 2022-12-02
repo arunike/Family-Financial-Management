@@ -1,8 +1,8 @@
 # Family Financial Management
 
 ## About
-<p> This car rental management system is built with Maven, JSP, SSM, & Mysql. 
-Simple implementation of basic management, system management, business management and statistical analysis.
+<p> The family financial management system is a financial software for families. 
+It should help users to enter, query, delete, modify and count various financial information conveniently, quickly and accurately, and has a reasonable background database.
 </p>
 
 ## Frontend
@@ -16,6 +16,7 @@ Simple implementation of basic management, system management, business managemen
 ### Framework
 <p>
     <li>SpringBoot</li>
+    <li>Mybatis</li>
 </p>
 
 ### Tools
