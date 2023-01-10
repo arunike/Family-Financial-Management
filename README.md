@@ -1,7 +1,8 @@
 # Family Financial Management
 
 ## About
-<p> The family financial management system is a financial software for families. It should help users to enter, query, delete, modify and count various financial information conveniently, quickly and accurately, and has a reasonable background database.
+<p> 
+    The family financial management system is a financial software for families. It should help users to enter, query, delete, modify and count various financial information conveniently, quickly and accurately, and has a reasonable background database.
 </p>
 
 ## Frontend
